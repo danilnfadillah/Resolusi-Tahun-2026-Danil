@@ -2,3 +2,4 @@ RESOLUSI DANIL
 - Lulus di semua matkul semster empat
 - Mendapatkan nilai A di semua matkul
 - Paham dan mampu mengimplementasikan semua hal yang dipelajari di perkuliahan
+- IPK naik disetiap semester 
